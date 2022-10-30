@@ -21,6 +21,3 @@ Make sure you have set up Rcon in Server Properties
     with MCRcon(server_address, server_pass, server_port) as mcr: 
         resp = mcr.command("whitelist add " + username)
 ```
-
-# Setting
-
