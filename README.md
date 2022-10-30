@@ -12,7 +12,7 @@ Make sure you have set up Rcon in Server Properties
 | enable-rcon  | true  |
 | rcon.password  | minecraft  |
 
-
+Example
 ```python
     server_address = "Localhost"
     server_pass = "minecraft"
