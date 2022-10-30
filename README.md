@@ -2,7 +2,7 @@
 
 Add player to whitelist from Discord bot
 
-#Usage
+# Usage
 
 Make sure you have set up Rcon in Server Properties
 
@@ -11,6 +11,7 @@ Make sure you have set up Rcon in Server Properties
 |  rcon.port  | 25575  |
 | enable-rcon  | true  |
 | rcon.password  | minecraft  |
+
 
 ```python
     server_address = "Localhost"
@@ -21,5 +22,5 @@ Make sure you have set up Rcon in Server Properties
         resp = mcr.command("whitelist add " + username)
 ```
 
-#Setting
+# Setting
 
