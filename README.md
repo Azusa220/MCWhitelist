@@ -6,6 +6,7 @@ Add player to whitelist from Discord bot
 
 Make sure you have set up Rcon in Server Properties
 
+| Setting  | Example |
 | ----------- | ------ |
 |  rcon.port  | 25575  |
 | enable-rcon  | true  |
