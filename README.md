@@ -1,6 +1,6 @@
 # MCWhitelist
 
-Add player to whitelist from Discord bot
+Add player to minecraft whitelist from Discord bot.
 
 # Usage
 
